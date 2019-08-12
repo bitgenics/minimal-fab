@@ -16,6 +16,10 @@ body {
   background-color: #301;
 }
 
+.feedback {
+  background-color: #001;
+}
+
 .other {
   /* increment the following counter to trigger a rebuild */
   background-color: #001;
