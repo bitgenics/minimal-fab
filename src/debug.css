@@ -13,10 +13,10 @@ body {
 }
 
 .tom {
-  background-color: #305;
+  background-color: #306;
 }
 
 .other {
   /* increment the following counter to trigger a rebuild */
-  background-color: #001;
+  background-color: #002;
 }
