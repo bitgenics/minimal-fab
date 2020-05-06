@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo 'Tests passing!'",
     "build:fab": "fab-static src",
-    "fake-script": "",
     "fake-script-two": ""
   },
   "keywords": [],
