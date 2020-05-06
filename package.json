@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo 'Tests passing!'",
-    "build:fab": "fab-static src",
-    "fake-script-two": ""
+    "build:fab": "fab-static src"
   },
   "keywords": [],
   "author": "",
