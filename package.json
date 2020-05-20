@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo 'Tests passing!'",
-    "barfoo": "fab-static src",
+    "barfo": "fab-static src",
     "fake-script-two": ""
   },
   "keywords": [],
