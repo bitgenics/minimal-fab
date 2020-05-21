@@ -20,3 +20,6 @@ body {
   /* increment the following counter to trigger a rebuild */
   background-color: #005;
 }
+
+.misc {
+  color: #001;
