@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'Tests passing!'",
+    "test": "sleep 10 && echo 'Tests passing!'",
     "build:fab": "fab-static src",
     "fake-script-two": ""
   },
