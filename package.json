@@ -5,13 +5,20 @@
   "main": "index.js",
   "scripts": {
     "test": "sleep 10 && echo 'Tests passing!'",
-    "build:fab": "fab-static src",
-    "fake-script-two": ""
+    "build:fab": "npm run fab:build",
+    "fab:build": "fab build",
+    "fab:serve": "fab serve fab.zip"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@fab/static": "^0.1.4"
+  "dependencies": {},
+  "devDependencies": {
+    "@fab/actions": "^1.0.0-rc.6",
+    "@fab/cli": "^1.0.0-rc.6",
+    "@fab/input-static": "^1.0.0-rc.6",
+    "@fab/plugin-render-html": "^1.0.0-rc.6",
+    "@fab/plugin-rewire-assets": "^1.0.0-rc.6",
+    "@fab/server": "^1.0.0-rc.6"
   }
 }
