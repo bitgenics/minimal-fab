@@ -6,7 +6,7 @@
   "scripts": {
     "test": "sleep 10 && echo 'Tests passing!'",
     "build:fab": "npm run fab:build",
-    "fab:build": "fab build",
+    "fa:build": "fab build",
     "fab:serve": "fab serve fab.zip"
   },
   "keywords": [],
