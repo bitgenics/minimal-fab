@@ -20,3 +20,7 @@ body {
   /* increment the following counter to trigger a rebuild */
   background-color: #0102;
 }
+
+.flip-test {
+  background-color: #001;
+}
